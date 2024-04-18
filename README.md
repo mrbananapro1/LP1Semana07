@@ -1,5 +1,5 @@
-classDiagram
-
+    classDiagram
+```mermaid
     Weapon <|-- Sword
     Weapon <|-- Gun
     Player <|-- Gun
