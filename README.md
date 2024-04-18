@@ -1,4 +1,4 @@
-    classDiagram
+
 ```mermaid
     Weapon <|-- Sword
     Weapon <|-- Gun
@@ -42,3 +42,4 @@
     class Enemy{
         Name: str
     }
+```
