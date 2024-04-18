@@ -1,5 +1,6 @@
 
 ```mermaid
+classDiagram
     Weapon <|-- Sword
     Weapon <|-- Gun
     Player <|-- Gun
